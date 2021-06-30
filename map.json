@@ -561,7 +561,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"underground.json"
+                 "value":"https://pixel.trainex.rocks"
                 }],
          "type":"tilelayer",
          "visible":true,
